@@ -1,2 +1,5 @@
-config.js
-DPFlashCards.zip
+lambda.zip
+package/
+__pycache__/
+*.pyc
+*.pyo
